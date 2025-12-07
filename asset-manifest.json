@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TechRajnish1609/React-Product-Showcase.git/static/css/main.905ae1e9.css",
+    "main.js": "/TechRajnish1609/React-Product-Showcase.git/static/js/main.72adc58b.js",
+    "static/js/453.7015a6bd.chunk.js": "/TechRajnish1609/React-Product-Showcase.git/static/js/453.7015a6bd.chunk.js",
+    "index.html": "/TechRajnish1609/React-Product-Showcase.git/index.html",
+    "main.905ae1e9.css.map": "/TechRajnish1609/React-Product-Showcase.git/static/css/main.905ae1e9.css.map",
+    "main.72adc58b.js.map": "/TechRajnish1609/React-Product-Showcase.git/static/js/main.72adc58b.js.map",
+    "453.7015a6bd.chunk.js.map": "/TechRajnish1609/React-Product-Showcase.git/static/js/453.7015a6bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.905ae1e9.css",
+    "static/js/main.72adc58b.js"
+  ]
+}
